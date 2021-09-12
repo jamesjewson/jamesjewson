@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jimmy</h1>
+<h1 align="center">Hi, I'm Jimmy</h1>
 <h3 align="center">A Full-Stack Software Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/jjewson" target="blank"><img src="https://img.shields.io/twitter/follow/jjewson?logo=twitter&style=for-the-badge" alt="jjewson" /></a> </p>
