@@ -3,11 +3,9 @@
 
 <p align="center"> <a href="https://twitter.com/jjewson" target="blank"><img src="https://img.shields.io/twitter/follow/jjewson?logo=twitter&style=for-the-badge" alt="jjewson" /></a> </p>
 
--How to reach me **jamesjewson.dev@gmail.com**
+<p align="center">Email me at <a href="mailto:jamesjewson.dev@gmail.com">jamesjewson.dev@gmail.com</a> </p>
 
--Fun fact **I have a Master's Degree in Orchestral Trumpet!**
-
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Socials:</h3>
 <p align="center">
 <a href="https://twitter.com/jjewson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jjewson" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jamesjewson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james jewson" height="30" width="40" /></a>
