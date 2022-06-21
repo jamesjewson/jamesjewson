@@ -22,7 +22,8 @@
    <img src="https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
    <img src="https://img.shields.io/badge/-C%2B%2B-brightgreen?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
    <img src="https://img.shields.io/badge/-SQLServer-green?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-   <img src="https://img.shields.io/badge/-Xamarin.Forms-yellowgreen?style=flat-square&logo=xamarin&logoColor=white" alt="Xamrain.Forms" />  
+   <img src="https://img.shields.io/badge/-Xamarin.Forms-yellowgreen?style=flat-square&logo=xamarin&logoColor=white" alt="Xamrain.Forms" />
+    <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python" />
    <img src="https://img.shields.io/badge/-jQuery-blueviolet?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />   
   <img src="https://img.shields.io/badge/-CSS3-ff69b4?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/-Express-orange?style=flat-square&logo=express&logoColor=white" alt="Express" />
