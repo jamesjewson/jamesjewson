@@ -46,7 +46,7 @@
 
   <div align="left">
   <h2>About Me</h2>
-  <p >I'm a software developer specializing in full-stack web applications, with a particular love for front-end development. I feel that my extensive experience in music assists in my understanding of abstract concepts and in being able to overcome large obstacles. My experience in teaching demonstrates patience, organizational skills, leadership skills, and time management skills. I am intrinsically motivated and have high standards for my work. My aim is to bring these skills and qualities to every project I work on and provide elegant solutions to complex problems.</p>
+  <p >I'm a software developer specializing in full-stack web applications. I feel that my extensive experience in music assists in my understanding of abstract concepts and in being able to overcome large obstacles. My experience in teaching demonstrates patience, organizational skills, leadership skills, and time management skills. I am intrinsically motivated and have high standards for my work. My aim is to bring these skills and qualities to every project I work on and provide elegant solutions to complex problems.</p>
   </div>
   <br/>
 
